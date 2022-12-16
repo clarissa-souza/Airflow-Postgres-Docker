@@ -26,3 +26,5 @@ product       Varchar (cultura)
 created_at    Timestamp (data de criação do arquivo)
 
 Escrevi um artigo no linkedin explicando como fazer todo o processo. 
+
+https://www.linkedin.com/pulse/como-fazer-tratamento-de-dados-com-airflow-docker-salvando-souza
