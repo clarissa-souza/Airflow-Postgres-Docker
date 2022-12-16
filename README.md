@@ -24,3 +24,5 @@ year_harvest  Int (ano da Safra)
 product       Varchar (cultura)
 
 created_at    Timestamp (data de criação do arquivo)
+
+Escrevi um artigo no linkedin explicando como fazer todo o processo. 
