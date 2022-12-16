@@ -8,11 +8,19 @@ O arquivo depois de tratado deve ter o layout:
 
 
 coluna        tipo
+
 id_sidra      int (identificador único)
+
 unit          Varchar (Toneladas ou Hectares)
+
 values        Int (quantidade)
+
 types         Varchar (Área Plantada ou Colhida)
+
 year_month    Date (data de coleta dos dados)
+
 year_harvest  Int (ano da Safra)
+
 product       Varchar (cultura)
+
 created_at    Timestamp (data de criação do arquivo)
